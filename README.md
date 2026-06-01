@@ -1,6 +1,18 @@
 # 🌸 Tugas React Vite - Perkenalan Diri
 
-![Screenshot Project](./screenshot.png)
+![Screenshot_1](./screenshot_1.png)
+
+---
+
+![Screenshot_2](./screenshot_2.png)
+
+---
+
+![Screenshot_3](./screenshot_3.png)
+
+---
+
+![Screenshot_4](./screenshot_4.png)
 
 ## 👩‍💻 Data Diri
 
