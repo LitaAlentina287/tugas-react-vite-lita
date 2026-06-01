@@ -31,7 +31,7 @@
 
 - **Nama:** Lita Alentina
 - **Pekerjaan:** Mahasiswa
-- **Tanggal Lahir:** 01 Januari 2004
+- **Tanggal Lahir:** 01 Januari 2001
 
 ---
 
