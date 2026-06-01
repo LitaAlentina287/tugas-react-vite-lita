@@ -1,18 +1,18 @@
 # 🌸 Tugas React Vite - Perkenalan Diri
 
-![Screenshot_1](./screenshot_1.png)
+![Screenshot 1](./screenshot_1.png)
 
 ---
 
-![Screenshot_2](./screenshot_2.png)
+![Screenshot 2](./screenshot_2.png)
 
 ---
 
-![Screenshot_3](./screenshot_3.png)
+![Screenshot 3](./screenshot_3.png)
 
 ---
 
-![Screenshot_4](./screenshot_4.png)
+![Screenshot 4](./screenshot_4.png)
 
 ---
 
