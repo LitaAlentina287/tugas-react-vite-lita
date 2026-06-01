@@ -1,18 +1,24 @@
 # 🌸 Tugas React Vite - Perkenalan Diri
 
-![Screenshot 1](./Screenshot_1.png)
+## Screenshot Aplikasi
+
+### Tampilan 1
+![Screenshot 1](src/assets/Screenshot_1.png)
 
 ---
 
-![Screenshot 2](./Screenshot_2.png)
+### Tampilan 2
+![Screenshot 2](src/assets/Screenshot_2.png)
 
 ---
 
-![Screenshot 3](./Screenshot_3.png)
+### Tampilan 3
+![Screenshot 3](src/assets/Screenshot_3.png)
 
 ---
 
-![Screenshot 4](./Screenshot_4.png)
+### Tampilan 4
+![Screenshot 4](src/assets/Screenshot_4.png)
 
 ---
 
