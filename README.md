@@ -14,6 +14,8 @@
 
 ![Screenshot_4](./screenshot_4.png)
 
+---
+
 ## 👩‍💻 Data Diri
 
 - **Nama:** Lita Alentina
