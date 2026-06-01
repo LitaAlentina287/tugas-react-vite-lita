@@ -22,6 +22,11 @@
 
 ---
 
+### Tampilan 5
+![Screenshot 5](src/assets/Screenshot_5.png)
+
+---
+
 ## 👩‍💻 Data Diri
 
 - **Nama:** Lita Alentina
