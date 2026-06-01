@@ -1,18 +1,73 @@
-# React + Vite
+# 🌸 Tugas React Vite - Perkenalan Diri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot Project](./screenshot.png)
 
-Currently, two official plugins are available:
+## 👩‍💻 Data Diri
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- **Nama:** Lita Alentina
+- **Pekerjaan:** Mahasiswa
+- **Tanggal Lahir:** 01 Januari 2004
 
-## React Compiler
+---
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## ✨ Fitur
 
-Note: This will impact Vite dev & build performances.
+- 👤 Menampilkan data diri
+- 🎂 Menghitung umur otomatis
+- 🔮 Cek zodiac berdasarkan tanggal lahir
+- 🎬 Menampilkan 5 film favorit
+- 🎨 Tampilan modern dan responsif
+- 💜 Tema ungu lilac dengan aksen emas
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🎬 Film Favorit
+
+1. Rapunzel (Tangled)
+2. My Little Pony: A New Generation
+3. The SpongeBob SquarePants Movie
+4. Kamen Rider Ex-Aid
+5. Uchuu Sentai Kyuranger
+
+---
+
+## 🛠️ Teknologi
+
+- React JS
+- Vite
+- JavaScript
+- CSS3
+
+---
+
+## 🚀 Menjalankan Project
+
+Install dependency:
+
+```bash
+npm install
+```
+
+Menjalankan project:
+
+```bash
+npm run dev
+```
+
+Build project:
+
+```bash
+npm run build
+```
+
+---
+
+## 🔗 GitHub Repository
+
+https://github.com/LitaAlentina287/tugas-react-vite-lita
+
+---
+
+## 👩‍🎓 Author
+
+**Lita Alentina**
